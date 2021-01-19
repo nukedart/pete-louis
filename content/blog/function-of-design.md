@@ -7,7 +7,7 @@ excerpt: >-
 date: '2021-01-15'
 thumb_image: images/Post1-Get Started.png
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/Post1-Get Started.png
 image_alt: A table tennis racket on a pink background
 layout: post
 ---
