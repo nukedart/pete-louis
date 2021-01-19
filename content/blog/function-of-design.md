@@ -4,7 +4,7 @@ subtitle: Getting a profile ready
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
-date: '2018-01-15'
+date: '2021-01-15'
 thumb_image: images/4.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/4.jpg
