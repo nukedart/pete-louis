@@ -1,6 +1,6 @@
 ---
 title: My first Post
-subtitle: 'A interesting tale about function of design '
+subtitle: 'Getting a profile '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
